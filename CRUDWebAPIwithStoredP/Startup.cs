@@ -16,6 +16,7 @@ using Microsoft.EntityFrameworkCore.Design;
 
 namespace CRUDWebAPIwithStoredP
 {
+    //--------------Omda----------------------------
     public class Startup
     {
         public Startup(IConfiguration configuration)
